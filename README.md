@@ -1,2 +1,3 @@
-# comman
-test!
+mkdir hisui
+cd hisui
+git init
